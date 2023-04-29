@@ -14,6 +14,7 @@
                                     background-color: #ffffff;
                                     padding: 20px;
                                     border: 1px solid #e0e0e0;
+                                    margin-bottom: 150px;
                                     box-shadow: 1px 1px 15px rgb(117, 113, 113);
                                 }
 
@@ -62,7 +63,7 @@
                                     font-size: 1.3rem;
                                     justify-content: end;
                                     align-items: center;
-                                    margin-top: 50px;
+                                    margin-top: -90px;
                                     margin-right: 300px;
                                 }
 
@@ -125,11 +126,6 @@
                                     margin-right: -120px;
                                 }
 
-                                .page1addtask {
-                                    position: relative;
-                                    top: -100px;
-                                }
-
                                 /* SecondPageCSS */
 
                                 .add-container {
@@ -141,8 +137,8 @@
                                 }
                                 .page1add{
                                     position: absolute;
-                                    top: 120px;
-                                    right: 280px;
+                                    top: 250px;
+                                    right: 10px;
                                 }
                                 .centerbox {
                                     position: absolute;
@@ -221,7 +217,7 @@
 
                                 .page3container {
                                     position: absolute;
-                                    top: 10px;
+                                    top: 110px;
                                     left: 515px;
                                     display: flex;
                                     align-items: center;
@@ -247,7 +243,7 @@
                                     width: 500px;
                                     position: absolute;
                                     align-items: center;
-                                    top: 20px;
+                                    top: 120px;
                                     left: 510px;
                                 }
                                 .page2box {
