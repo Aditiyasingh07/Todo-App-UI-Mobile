@@ -227,12 +227,8 @@
                                 }
 
                                 .add-taskpage2 {
-                                    /* position: absolute; */
-                                    /* left: 770px; */
                                     color: #424242;
-                                    /* column-gap: 10px; */
                                     font-size: 1.4rem;
-                                    /* top: 40px; */
                                     display: flex;
                                     align-items: center;
                                 }
