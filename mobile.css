@@ -1,0 +1,109 @@
+@media screen and (min-width:250px) and (max-width:500px){
+    body{
+        width: 178%;
+        /* background-color: black; */
+    }
+    .navbar h1{
+        font-size: 4rem;
+        margin-left: 200px;
+    }
+    .add-task{
+        display: flex;
+        margin: 0;
+        width: 238vw;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .add-task img{
+        height: 100px;
+        width: 100px;
+    }
+    .add-task span{
+        display: none;
+    }
+    .container{
+        height: 830px;
+        display: flex;
+        justify-content: center;
+        width: 235vw;
+    }
+    div .boxs{
+        display: flex;
+        width: 135vw;
+        justify-content: center;
+        margin-top: 100px; 
+    }
+    .container .page1add{
+        position: absolute;
+        right: -200px;
+    }
+    .box h3{
+        font-size: 1.8rem;
+    }
+    .box label{
+        font-size: 1.4rem;
+    }
+    .box .checkbox2{
+        width: 270px;
+    }
+    .boxs .box{
+        width: 500px;
+        height: 350px;
+    }
+    div .checkboxs{
+        width: 204px;
+    }
+    /*PAGE2 */
+    div .page1box{
+        margin-left: 100px;
+    }
+    .page1add img{
+        margin-top: 50px;
+        position: relative;
+        left: 400px;
+    }
+    .add-container{
+        display: flex;
+        flex-direction: column;
+        width: 240%;
+        height: 200vh;
+    }
+    .centerbox{
+        position: relative;
+        top: 463px;
+        left: 177px;
+    }
+    .centerbox h3{
+        font-size: 1.8rem;
+    }
+    .centerbox .x{
+        font-size: 2rem;
+        margin-left: 150px;
+    }
+    .centerbox input::placeholder{
+        font-size: 1.4rem;
+    }
+    
+    /* PAGE3 */
+    .navbar{
+        width: 238vw;
+    }
+    .page2container{
+        height: 100px;
+        margin-top: 150px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+    .page2box{
+        margin: 40px 0 0 100px;
+    }
+    .page3container{
+        position: absolute;
+        top: -250px;
+        left: 0px;
+    }
+    .add-container .centerbox{
+        margin-left: 100px;
+    }
+}
